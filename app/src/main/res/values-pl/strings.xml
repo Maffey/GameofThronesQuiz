@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gra o Tron Quiz</string>
+    <string name="q1">Pytanie 1.</string>
+    <string name="q1a">Ród Baratheon</string>
+    <string name="q1b">Ród Targaryen</string>
+    <string name="q1c">Ród Stark</string>
+    <string name="q1d">Ród Lannister</string>
+    <string name="q2">Pytanie 2.</string>
+    <string name="q2a">Dama</string>
+    <string name="q2b">Lato</string>
+    <string name="q2c">Duch</string>
+    <string name="q2d">Szary Wicher</string>
+    <string name="q3">Pytanie 3.</string>
+    <string name="q4">Pytanie 4.</string>
+    <string name="q5">Pytanie 5.</string>
+    <string name="q6">Pytanie 6.</string>
+    <string name="q7">Pytanie 7.</string>
+    <string name="q8">Pytanie 8.</string>
+    <string name="q9">Pytanie 9.</string>
+    <string name="question1">Który ród panował Westeros przez 300 lat?</string>
+    <string name="question2">Jak nazywa się wilkor Jona Snow?</string>
+    <string name="question3">Kto jest Lordem Dowódcą Nocnej Straży na początku serialu?</string>
+    <string name="question4">Który król nie brał udziału w Wojnie Pięciu Króli?</string>
+    <string name="question5">Kto jest lordem Casterly Rock podczas rządów Roberta?</string>
+    <string name="submitScore">Sprawdź swój wynik</string>
+    <string name="q6c">Nieznajomy</string>
+    <string name="q6d">Książę, Którego Obiecano</string>
+    <string name="question6">Jakie imię nosi bóg zwany Panem Światła?</string>
+    <string name="result01">"Masz "</string>
+    <string name="result02">" z "</string>
+    <string name="result03">" możliwych punktów! "</string>
+    <string name="resultHalf">To więcej niż połowa. Świetnie!</string>
+    <string name="resultLess">Mogło być lepiej&#8230;</string>
+    <string name="resultMax">Odpowiedziałeś na każde pytanie poprawnie. Niesamowite!</string>
+    <string name="question7">Jak się nazywa ta pieśń?</string>
+    <string name="q7c">Czerwony Płaszcz</string>
+    <string name="q7d">Złoto Lwa</string>
+    <string name="q7b" translatable="false">Deszcze Castamere</string>
+    <string name="q7a" translatable="false">Casterly Rock</string>
+    <string name="play7">Włącz muzykę dla Pytania 7.</string>
+    <string name="entry">Pamiętaj! Kiedy grasz w grę o tron, wygrywasz albo umierasz!</string>
+    <string name="house_words">Na przykład: winter is coming</string>
+    <string name="q8a">Ród Manderly</string>
+    <string name="q8b">Ród Greyjoy</string>
+    <string name="q8c">Ród Glover</string>
+    <string name="q8d">Ród Bolton</string>
+    <string name="q8e">Ród Royce</string>
+    <string name="q8f">Ród Mormont</string>
+    <string name="question8">Wpisz motto Rodu Arryn (po angielsku):</string>
+    <string name="question9">Które rody przysięgły wierność rodowi Starków?</string>
+    <string name="brynden_nick">Na przykład: Kingslayer</string>
+    <string name="q10">Pytanie 10.</string>
+    <string name="question10">Pod jakim imieniem jest znany Brynden Tully? (po angielsku)</string>
+</resources>

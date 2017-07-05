@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Game of Thrones Quiz</string>
+
+    <string name="entry">Remember! When you play the game of thrones you win or you die!</string>
+
+    <string name="q1">Question 1.</string>
+    <string name="q2">Question 2.</string>
+    <string name="q3">Question 3.</string>
+    <string name="q4">Question 4.</string>
+    <string name="q5">Question 5.</string>
+    <string name="q6">Question 6.</string>
+    <string name="q7">Question 7.</string>
+    <string name="q8">Question 8.</string>
+    <string name="q9">Question 9.</string>
+    <string name="q10">Question 10.</string>
+
+
+    <string name="question1">Which house ruled the Westeros for 300 years?</string>
+    <string name="q1a">House Baratheon</string>
+    <string name="q1b">House Targaryen</string>
+    <string name="q1c">House Stark</string>
+    <string name="q1d">House Lannister</string>
+
+    <string name="question2">What is the name of Jon Snow\'s direwolf?</string>
+    <string name="q2a">Lady</string>
+    <string name="q2b">Summer</string>
+    <string name="q2c">Ghost</string>
+    <string name="q2d">Grey Wind</string>
+
+    <string name="question3">Who is the Lord Commander of the Night\'s Watch at the
+        beginning of the show?</string>
+    <string name="q3a" translatable="false">Jeor Mormont</string>
+    <string name="q3b" translatable="false">Jorah Mormont</string>
+    <string name="q3c" translatable="false">Benjen Stark</string>
+    <string name="q3d" translatable="false">Aliser Thorne</string>
+
+    <string name="question4">Which king did not participate in War of the Five Kings?</string>
+    <string name="q4a" translatable="false">Stannis Baratheon</string>
+    <string name="q4b" translatable="false">Robert Baratheon</string>
+    <string name="q4c" translatable="false">Renly Baratheon</string>
+    <string name="q4d" translatable="false">Balon Greyjoy</string>
+
+    <string name="question5">Who is the lord of Casterly Rock during Robert\'s reign?</string>
+    <string name="q5a" translatable="false">Jaime Lannister</string>
+    <string name="q5b" translatable="false">Kevan Lannister</string>
+    <string name="q5c" translatable="false">Tytos Lannister</string>
+    <string name="q5d" translatable="false">Tywin Lannister</string>
+
+    <string name="question6">What\'s the name of the god called Lord of the Light?</string>
+    <string name="q6a" translatable="false">Azor Ahai</string>
+    <string name="q6b" translatable="false">R\'hllor</string>
+    <string name="q6c" translatable="true">Stranger</string>
+    <string name="q6d" translatable="true">The Prince That Was Promised</string>
+
+    <string name="question7">What\'s the name of this song?</string>
+    <string name="play7">Play sound for Question 7.</string>
+    <string name="q7a" translatable="false">Casterly Rock</string>
+    <string name="q7b">Rains of Castamere</string>
+    <string name="q7c" translatable="true">Coat of Red</string>
+    <string name="q7d" translatable="true">Gold of the Lion</string>
+
+    <string name="question8">Type in the words of House Arryn:</string>
+    <string name="house_words">Example: winter is coming</string>
+
+    <string name="question9">Which houses have sworn allegiance to House Stark?</string>
+    <string name="q8a">House Manderly</string>
+    <string name="q8b">House Greyjoy</string>
+    <string name="q8c">House Glover</string>
+    <string name="q8d">House Bolton</string>
+    <string name="q8e">House Royce</string>
+    <string name="q8f">House Mormont</string>
+
+    <string name="question10">Under what name is Brynden Tully also known as?</string>
+    <string name="brynden_nick">Example: Kingslayer</string>
+
+    <string name="submitScore">Submit score</string>
+    <string name="result01">"You have "</string>
+    <string name="result02">" out of "</string>
+    <string name="result03">" points! "</string>
+    <string name="resultMax">You\'ve got everything correctly! Amazing! </string>
+    <string name="resultHalf">More than a half. That\'s pretty good! </string>
+    <string name="resultLess">Could be better&#8230; </string>
+
+</resources>
